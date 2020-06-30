@@ -27,7 +27,7 @@ function calculateCode() {
   doOtherThing();
   return code;
 }
-  
+
 function getName() {
   return calculateCode();
 }
